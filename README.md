@@ -1,5 +1,7 @@
 # MicroMidiDevices
 
+by [francesco bianchi](https://www.francescobianchi.cloud)
+
 A (very) simple library for ATmega32u4 (Arduino Micro and Leonardo) to create MIDI (over USB) controllers using various input devices. Currently are allowed potentiometers and rotary encoders.
 
 Every device shares the same API, and it's base on a paradigm called IU: *Instantiate and Update*. For example, to manage a potentiometer:
