@@ -1,0 +1,21 @@
+#######################################
+# Syntax Coloring Map
+#######################################
+
+#######################################
+# Datatypes	(KEYWORD1)
+#######################################
+
+MicroMidiDevices	KEYWORD1
+MMPot	KEYWORD1
+MMEnc	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+update	KEYWORD2
+begin	KEYWORD2
+set_debug	KEYWORD2
+set_reverse	KEYWORD2
+set_forward	KEYWORD2
