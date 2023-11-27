@@ -57,3 +57,7 @@ void loop() {
 }
 ```
 
+Credits:
+- Damien Clarke, [Responsive AnalogRead Library](https://github.com/dxinteractive/ResponsiveAnalogRead)
+- Peter Harrison, [BasicEncoder Library](https://github.com/micromouseonline/BasicEncoder)
+
